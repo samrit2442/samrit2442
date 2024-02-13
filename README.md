@@ -28,6 +28,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrit2442)
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samrit2442)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samrit2442)
 
 
