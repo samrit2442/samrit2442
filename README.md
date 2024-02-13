@@ -25,13 +25,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samrit2442&show_icons=true&locale=en&layout=compact" alt="samrit2442" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samrit2442&show_icons=true&locale=en" alt="samrit2442" /></p>
+<p>&nbsp;![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samrit2442)</p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrit2442&" alt="samrit2442" /></p>
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samrit2442)
+
 
 
 
