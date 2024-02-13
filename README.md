@@ -26,7 +26,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samrit2442&" alt="samrit2442" /></p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrit2442&theme=github_light)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samrit2442)
 
 
 
