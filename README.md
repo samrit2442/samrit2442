@@ -6,6 +6,9 @@
 <p align="left"> <a href="https://twitter.com/samrit2442" target="blank"><img src="https://img.shields.io/twitter/follow/samrit2442?logo=twitter&style=for-the-badge" alt="samrit2442" /></a> </p>
 
 - 📫 How to reach me **samrit.2442@gmail.com**
+- 👀 I like #rstats, data science, 📊statistics and 🪐astronomy✨.
+- 🌱 I'm learning about Bayes stats, Geo-Spatial analysis and Deep learning.
+- 🤝 I'm looking to collaborate on #rstats packages and anything related to R coding. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
