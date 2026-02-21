@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samrit Pramanik (Nibiru)</h1>
-<h3 align="center">A passionate Data Scientist and Statistician, R UseR, Astronomy enthusiast</h3>
+<h3 align="center">A passionate Data Scientist and Statistician, R DevelopeR, Astronomy enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samrit2442&label=Profile%20views&color=0e75b6&style=flat" alt="samrit2442" /> </p>
 
@@ -8,7 +8,8 @@
 - 📫 How to reach me **samrit.2442@gmail.com**
 - 👀 I like #rstats, Data Science, 📊Statistics and 🪐Astronomy✨.
 - 🌱 I'm learning about Bayes Stats, Geo-Spatial Analysis and Deep Learning.
-- 🤝 I'm looking to collaborate on #rstats packages and anything related to R coding. 
+- 🤝 I'm looking to collaborate on #rstats packages and anything related to R coding.
+- 💬 I'm multilingual: **English, বাংলা (Bengali) and Spanish**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
